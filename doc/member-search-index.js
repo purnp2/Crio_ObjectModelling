@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.crio.codingame","c":"App","l":"App()","url":"%3Cinit%3E()"},{"p":"com.crio.codingame","c":"App","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"com.crio.codingame","c":"App","l":"run(List<String>)","url":"run(java.util.List)"}]
