@@ -1,2 +1,3 @@
 # Crio_ObjectModelling
-## Some description
+## CodingGame and JukeBox
+### Learn MVC pattern in Spring Boot and design principles.
